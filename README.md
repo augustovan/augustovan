@@ -7,7 +7,7 @@
 Hi there :wave:
 I'm a DevOps engineer :hearts: I'm as every Brazilian loves soccer and Brazilian barbecue. Marvel lovers, Star Wars lovers, I guess that I'm a geek but I don't sure this. :sunglasses: I hope help you with my codes or my knowledge
 
-#### - 📫 How to reach me: augusto.van@gmail.com
+#### - 📫 How to reach me: [linkdin](https://www.linkedin.com/in/victoranascimento/)
 
 ### My knowledge of technologies are:
 - :whale2: Docker
