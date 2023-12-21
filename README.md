@@ -11,7 +11,7 @@ I'm a DevOps engineer :hearts: I'm as every Brazilian loves soccer and Brazilian
 
 ### My knowledge of technologies are:
 - :whale2: Docker
-- :boat: K8S, Helm, Kops and Istio
+- :boat: K8S, Helm, ArgoCD and Istio
 - \:shell: ShellScript
 - :snake: Python
 - :rocket: NodeJS
